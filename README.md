@@ -13,8 +13,8 @@ This repository contains the solution for the second project of the Design of Di
 The core of this project is to build fundamental sequential logic components from the ground up and then use them to create more complex circuits.The exercises progress from implementing basic flip-flops to constructing a sequence detector, a shift register, and finally, a serial adder that utilizes the previously built components.
 
 **Deliverables:**
-* [cite_start]Logisim simulation file (`.circ`) 
-* [cite_start]Presentation slides (`.pdf`) showing the solutions 
+* Logisim simulation file (`.circ`) 
+* Presentation slides (`.pdf`) showing the solutions 
 
 ## Implemented Circuits
 
